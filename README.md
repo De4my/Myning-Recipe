@@ -15,6 +15,9 @@ Myning Recipe is a dashboard developed for social media analysis that focuses on
 3. Create a dashboard for analyzing the pattern of words consisting of tweets that usually lead to cyberbullying.
 
 
+## Acknowledgement
+Feel free to use my labeled dataset(be careful some of it has a misclassified label) and model for further improvement or research purposes. Special thanks to @huseinzol05 for providing the Malay tweet dataset and a lot of tools for analyzing text in the Malay language. The analysis tool can be seen on the demo page later.
+
 
 
 
