@@ -18,6 +18,8 @@ Myning Recipe is a dashboard developed for social media analysis that focuses on
 ## Acknowledgement
 Feel free to use my labeled dataset(be careful some of it has a misclassified label) and model for further improvement or research purposes. Special thanks to @huseinzol05 for providing the Malay tweet dataset and a lot of tools for analyzing text in the Malay language. The analysis tool can be seen on the demo page later.
 
+## Declaration
+Myning recipe is my final year project which was one of my requirements for completing my bachelor's in computer science. There are many things that can be improved in this project since it has a lot of 'trade-offs'. Stay tuned for upcoming planning on making more improvements and adjustments that can be used in the future, as there will be more 'recipes' and new version.
 
 
 
