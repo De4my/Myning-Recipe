@@ -7,7 +7,7 @@ Myning Recipe is a dashboard developed for social media analysis that focuses on
 ## Problem Statement
 1. There are too many cyberbullying cases happening on social media.
 2. Lack of Malay language utilize in cyberbullying detection.
-3. A dashboard to analyze the pattern of words in cyberbullying.
+3. A lack of dashboard to analyze the pattern of words in cyberbullying.
 
 ## Objective:
 1. Produce a prototype that can be utilized in social media to prevent users from posting cyberbullying tweets.
