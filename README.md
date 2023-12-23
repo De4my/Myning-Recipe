@@ -1,4 +1,4 @@
-# Myning-Recipe
+# Myning Recipe
 ![New](https://github.com/De4my/Myning-Recipe/assets/116957596/dbdb4ae4-a6c3-4af9-8eb3-5491ae8263a8)
 
 
