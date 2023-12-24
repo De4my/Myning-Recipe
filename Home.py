@@ -26,7 +26,7 @@ col2.image(image1)
 
 st.header("**Word Frequency**")
 #Analysis Graph
-df = pd.read_csv('Myning-Recipe/Clean_Data3.csv')
+df = pd.read_csv('Clean_Data3.csv')
 #Sebelum ni pakai Tagged_MixedNew.csv
 
 def cyberbullying_type_data(cb_type, column_name='target'):
