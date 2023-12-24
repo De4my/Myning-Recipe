@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import warnings
 warnings.filterwarnings("ignore")
-
+requirements.txt
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
