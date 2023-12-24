@@ -19,7 +19,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from transformers import AutoModel,AutoTokenizer,AutoModelForSequenceClassification,pipeline
 
 
-model_url = "https://drive.google.com/drive/folders/1-hPv-05GjWrCQ61J98qCOL0NyLayYjbR?usp=sharing" 
+model_url = "https://drive.google.com/file/d/1h1Y0QxF7VhcNrmVC7zHrm-rW8Dab_DgY/view?usp=drive_link" 
 
 model1 = AutoModel.from_pretrained(model_url)
 #tokenizer = AutoTokenizer.from_pretrained(model_url)
