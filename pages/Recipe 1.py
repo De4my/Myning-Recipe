@@ -18,7 +18,7 @@ import plotly.graph_objects as go
 from sklearn.feature_extraction.text import CountVectorizer
 from transformers import AutoTokenizer,AutoModelForSequenceClassification,pipeline
 
-import malaya.graph
+
 import malaya
 import os
 
