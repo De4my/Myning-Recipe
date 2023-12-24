@@ -11,3 +11,4 @@ torch==2.1.0
 graphviz==0.20.1
 malaya==5.0
 malaya-boilerplate==0.0.24
+tensorflow-probability==0.21.0
