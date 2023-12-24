@@ -13,6 +13,8 @@ from transformers import pipeline
 from sklearn.svm import SVC
 from sklearn.svm import LinearSVC
 from sklearn.feature_extraction.text import CountVectorizer
+from transformers import pipeline
+
 
 import pandas as pd
 
