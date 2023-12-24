@@ -4,3 +4,4 @@ scikit-learn==1.2.0
 scipy==1.11.4
 seaborn==0.13.0
 bokeh==2.4.3
+nltk==3.8.1
