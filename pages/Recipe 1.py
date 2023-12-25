@@ -28,7 +28,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 # Path to your pre-trained model's configuration file
-model_path = "C:/Users/user/Documents/PSM/BERT_Ver2/Transformers-Text-Classification-BERT-Blog-main/model/"
+#model_path = "C:/Users/user/Documents/PSM/BERT_Ver2/Transformers-Text-Classification-BERT-Blog-main/model/"
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 # Load the tokenizer and model
