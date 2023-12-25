@@ -166,7 +166,7 @@ with tab1:
 
 
 with tab2:
-  st.title('This section is temporary close😔')
+  st.subheader('This section is temporarily close😔')
 
           
           
