@@ -13,3 +13,4 @@ malaya==5.0
 malaya-boilerplate==0.0.24
 tensorflow-probability==0.21.0
 torchlibrosa==0.1.0
+huggingface-hub==0.16.4
