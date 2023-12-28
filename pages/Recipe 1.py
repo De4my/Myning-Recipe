@@ -170,8 +170,8 @@ with tab1:
 
 
 with tab2:
-  st.title('Embedded Tweet')
-  def theTweet(tweet):
+  st.title('This section is under maintenance🛠️')
+'''  def theTweet(tweet):
     api = "https://publish.twitter.com/oembed?url={}".format(tweet)
     response = requests.get(api)
     res = response.json()["html"]
@@ -264,7 +264,7 @@ with tab2:
 
           g.render('Mark', format = format)
           image = Image.open('Mark.png')
-          st.image(image,caption = 'Dependency parsing')
+          st.image(image,caption = 'Dependency parsing')'''
 
     
           
