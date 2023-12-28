@@ -28,7 +28,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 
-model_url = "https://www.kaggle.com/datasets/defamy/bert-cyberbullying/model/"
+model_url = "https://drive.google.com/drive/folders/1-hPv-05GjWrCQ61J98qCOL0NyLayYjbR?usp=drive_link"
 
 
 # Path to your pre-trained model's configuration file
