@@ -28,7 +28,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 
-model_url = "https://www.kaggle.com/<user>/my-bert-model/model/"
+model_url = "https://www.kaggle.com/datasets/defamy/bert-cyberbullying/model/"
 
 
 # Path to your pre-trained model's configuration file
