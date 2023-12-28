@@ -170,7 +170,7 @@ with tab1:
 
 
 with tab2:
-  st.title('This section is under maintenance🛠️')
+  st.subheader('This section is under maintenance🛠️')
 
 
     
